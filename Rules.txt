@@ -1,0 +1,26 @@
+Sam Bryant period 2 10/20/2017
+
+RULEs OF BLACKJACK
+
+all cards are an integer
+
+int 2 = 2;
+int3 = 3;
+int 4 = 4;
+int 5 =5;
+int 6 = 6;
+int 7 = 7;
+int 8 = 8;
+int 9 = 9;
+int 10 = 10;
+
+then all royales are 10
+
+int jack = 10;
+int queen = 10;
+int king = 10;
+
+then ace is 1 or 11
+
+int ace = 1 or 11(based on player choice);
+

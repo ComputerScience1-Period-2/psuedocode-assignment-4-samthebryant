@@ -1,0 +1,58 @@
+Sam Bryant 10/20/2017
+
+How to play BLACKJACK:
+
+dealer deals 2 cards to each player and 2 to himself, one is face down.
+
+The players look at their cards
+
+  If the 2 cards add up to 21:
+
+   {say "Blackjack" to end the game}
+
+  Else:
+
+   {begin the game normally}
+   
+The dealer asks the player to hit or stand.
+  
+  If the player chooses to hit:
+
+    dealer gives the player 1 card faced down
+    
+  The player looks at their cards again
+
+  If the player's cards add up to 21:
+
+    The player wins the game
+
+  If the player's cards add up to above 21:
+
+    The player is eliminated
+
+  Else:
+
+    Continue the game normally
+    
+The dealer deals out cards for the next player
+
+
+  Else if the person stands:
+
+
+    Player keeps the same cards
+
+    Continue to the next player
+
+after everyone stands or is eliminated:
+
+dealer looks at his cards
+
+if his cards add up to less than 17:
+he hits,
+repeat until 17 or more
+
+check if each player has more than the dealer, if they do they win.
+
+repeat game as much as player wants to play.
+
